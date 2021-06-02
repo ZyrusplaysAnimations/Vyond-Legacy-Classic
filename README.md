@@ -4,6 +4,6 @@ It is not your typical LVM clone, this is meant to bring back all of the old fea
 
 Please Note this project is still in beta so alot of things are broken. 
 
-**Videolist: <a href="https://randombluealien700.github.io/Vyond-Legacy-Classic/yourvideos.html">https://randombluealien700.github.io/Vyond-Legacy-Classic/yourvideos.html</a>**
+**Videolist: https://randombluealien700.github.io/Vyond-Legacy-Classic/yourvideos.html">https://randombluealien700.github.io/Vyond-Legacy-Classic/yourvideos.html**
 
-**CLICK HERE TO VIEW THE UPDATE HISTORY: <a href="https://randombluealien700.github.io/Vyond-Legacy-Classic/updates.html">https://randombluealien700.github.io/Vyond-Legacy-Classic/updates.html</a>**
+**CLICK HERE TO VIEW THE UPDATE HISTORY: https://randombluealien700.github.io/Vyond-Legacy-Classic/updates.html">https://randombluealien700.github.io/Vyond-Legacy-Classic/updates.html**
